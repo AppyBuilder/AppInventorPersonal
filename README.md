@@ -16,8 +16,9 @@ This standalone version has been updated to run locally, on following platforms:
 	JAVA_HOME setup properly
 
 ## Starting servers:
-  WinStartBuildServer   - starts the backend build servers
-  WinStartFrontend.cmd  - starts the frontend UI
+* WinStartBuildServer   - starts the backend build servers
+* WinStartFrontend.cmd  - starts the frontend UI
+  - Once Frontend is started, start browser (Chrome or Firefox) and point your browser to: http://localhost:8888
 	
 ## Troubleshooting:
    If you receive error "Address already in use", it means App Inventor was not shut-down
