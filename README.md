@@ -2,8 +2,11 @@
 
 
 ## Description:
-This is an Offline version of App Inventor that was created by
-AppyBuilder. This standalone version has been updated to run locally, on following platforms:
+This is an Offline version of App Inventor that was created by AppyBuilder. 
+App Inventor source code can be found at Github here: 
+> https://github.com/mit-cml/appinventor-sources
+
+This standalone version has been updated to run locally, on following platforms:
     
    Windows   
    Linux
