@@ -1,8 +1,7 @@
-****** 
-****** Welcome to AppInventor offline
-****** 
+# Welcome to AppInventor offline
 
-****** Description:
+
+## Description:
 This is an Offline version of App Inventor that was created by
 AppyBuilder. This standalone version has been updated to run locally, on following platforms:
     
@@ -10,25 +9,25 @@ AppyBuilder. This standalone version has been updated to run locally, on followi
    Linux
    Mac
 
-****** Required Software / setup:
+## Required Software / setup:
 	Java JDK 1.8
 	Git
 	Python 2.7 (If using Windows)
 	JAVA_HOME setup properly
 
-****** Starting servers:
+## Starting servers:
   WinStartBuildServer   - starts the backend build servers
   WinStartFrontend.cmd  - starts the frontend UI
 	
-****** Troubleshooting:
+## Troubleshooting:
    If you receive error "Address already in use", it means App Inventor was not shut-down
       gracefully. You'll need to kill java using task manager
 
-****** Forum / Communities:
+## Forum / Communities:
 	  
-For more info on AppInventor, please visit group at https://groups.google.com/group/mitappinventortest.
+For more info on **AppInventor**, please visit group at https://groups.google.com/group/mitappinventortest.
 
-For more info on AppyBuilder, please visit community forum at https://Community.AppyBuilder.com
+For more info on **AppyBuilder**, please visit community forum at https://Community.AppyBuilder.com
 
 
 
