@@ -12,14 +12,16 @@ This standalone version has been updated to run locally, on following platforms:
 * Mac
 
 ## Required Software / setup:
-	Java JDK 1.8
-	JAVA_HOME setup properly
+* Java JDK 1.8
+  - You may need to install OpenJDK 8 if using Linux
+* Setup JAVA_HOME properly
 
 ## Starting servers:
-* WinStartBuildServer   - starts the backend build servers
-* WinStartFrontend.cmd  - starts the frontend UI
+* WinStartBuildServer.bat   - starts the backend build servers
+* WinStartFrontend.bat  - starts the frontend UI
   - Once Frontend is started, start browser (Chrome or Firefox) and point your browser to: http://localhost:8888
-	
+* If using Linux or Mac, use the startBuildServer.sh and startFromend.sh
+
 ## Troubleshooting:
    If you receive error "Address already in use", it means App Inventor was not shut-down
       gracefully. You'll need to kill java using task manager
