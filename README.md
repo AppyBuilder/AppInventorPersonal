@@ -7,10 +7,9 @@ App Inventor source code can be found at Github here:
 > https://github.com/mit-cml/appinventor-sources
 
 This standalone version has been updated to run locally, on following platforms:
-    
-   Windows   
-   Linux
-   Mac
+* Windows   
+* Linux
+* Mac
 
 ## Required Software / setup:
 	Java JDK 1.8
