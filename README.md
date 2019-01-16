@@ -11,8 +11,6 @@ AppyBuilder. This standalone version has been updated to run locally, on followi
 
 ## Required Software / setup:
 	Java JDK 1.8
-	Git
-	Python 2.7 (If using Windows)
 	JAVA_HOME setup properly
 
 ## Starting servers:
