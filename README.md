@@ -23,8 +23,11 @@ This standalone version has been updated to run locally, on following platforms:
 * If using Linux or Mac, use the startBuildServer.sh and startFromend.sh
 
 ## Troubleshooting:
-   If you receive error "Address already in use", it means App Inventor was not shut-down
-      gracefully. You'll need to kill java using task manager
+If you receive error "Address already in use", it means App Inventor was not shut-down gracefully. You'll need to kill java:
+* Windows: Use task manager
+* Linux: 
+  - First use lsof -i tcp:9990 to get the id from the process that was running.
+  - Then use that id and killed the process: kill -9 6627 i guess the id could be different on other computers.
 
 ## Forum / Communities:
 	  
